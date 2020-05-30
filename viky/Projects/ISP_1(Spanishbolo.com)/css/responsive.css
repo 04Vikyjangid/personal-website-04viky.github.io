@@ -1,0 +1,1187 @@
+@media (max-width:1681px) {
+    h1 {
+        font-size: 36px;
+    }
+    .banner-content-inner {
+        max-width: 530px;
+    }
+    .missouri-content-inner h2, .your-engineers h2 {
+        font-size: 36px;
+    }
+    .four-step-section .section-heading h2 {
+        font-size: 36px;
+        max-width: 670px;
+    }
+    .missouri-content-inner p {
+        font-size: 18px;
+    }
+    h2, h3 {
+        font-size: 22px;
+    }
+    .capabilities-accordion a{
+        font-size: 20px;
+    }
+    .missouri-content-inner h3 {
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .set-content {
+        margin-top: 15px;
+    }
+    .capabilities-accordion a{
+        padding-top: 8px;
+    }
+    .free-consultation-section a.btn {
+        flex: 0 0 40%;
+        font-size: 24px;
+        height: 70px;
+        line-height: 70px;
+    }
+    .free-consultation-section .container{
+        justify-content: center;
+    }
+    .free-consultation-section {
+        height: 300px;
+    }
+    .page-heading h1{
+        font-size: 70px;
+    }
+    .mm.one.active{
+        top: 33px;
+    }
+    .mm.two.active {
+        top: 82px;
+        right: 50px;
+    }
+    .mm.three.active {
+        right: -30px;
+        top: 74px;
+    }
+    .mm.four.active {
+        top: 153px;
+        right: 159px;
+    }
+    .mm.five.active {
+        top: 108px;
+    }
+    .mm.six.active {
+        top: 160px;
+    }
+    .mm.seven.active {
+        top: 128px;
+    }
+    .mm.eight.active {
+        top: 197px;
+    }
+    .mm.nine.active {
+        top: 148px;
+    }
+    .mm.ten.active {
+        top: 168px;
+    }
+    .mm.eleven.active {
+        top: 231px;
+        right: 138px;
+    }
+    .mm.twe.active {
+        top: 205px;
+    }
+    .mm.thrteen.active {
+        top: 183px;
+    }
+    .mm.fourteen.active {
+        top: 241px;
+    }
+    .mm.fifteen.active {
+        top: 217px;
+    }
+    .mm.sixteen,.mm.seventeen{
+        display: none;
+    }
+}
+
+@media (max-width:1540px) {
+    .container {
+        max-width: 1280px;
+    }
+}
+@media (max-width:1439px) {
+    body{
+        font-size: 16px;
+        line-height: 22px;
+    }
+    ul li{
+        font-size: 16px;
+        padding-left: 30px;
+    }
+    .btn {
+        min-width: 210px;
+        line-height: 38px;
+        height: 40px;
+    }
+    .container {
+        max-width: 1170px;
+    }
+    .sm-container {
+        max-width: 1080px;
+    }
+    .page-heading {
+        text-align: center;
+        padding: 25px 0 30px;
+    }
+    .page-heading h1{
+        font-size: 60px;
+    }
+    .menu-logo {
+        flex: 0 0 170px;
+    }
+    .main-header .nav-menu ul li + li {
+        margin-left: 12px;
+    }
+    .social-part a.btn {
+        height: 48px;
+        line-height: 46px;
+        margin-left: 10px;
+        font-size: 14px;
+        padding: 0 15px;
+    }
+    h1 {
+        font-size: 26px;
+    }
+    .faq-banner-content h1 {
+        font-size: 36px;
+    }
+
+    .section-heading h1, .section-heading h2 {
+        padding-bottom: 12px;
+        margin-bottom: 10px;
+    }
+    .banner-content-inner {
+        max-width: 440px;
+    }
+    .cardbox-inner p {
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .energy-future-left p {
+        font-size: 80px;
+        line-height: 80px;
+    }
+    .energy-future-section .energy-future-left:before{
+        width: 190px;
+    }
+    .energy-future-section .energy-future-left:after{
+        width: 335px;
+    }
+    .missouri-content-inner {
+        padding-right: 50px;
+    }
+    .missouri-content-inner p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .capabilities-accordion a {
+        padding-top: 12px;
+        font-size: 16px;
+        padding-bottom: 12px;
+    }
+    .feedback-section p {
+        font-size: 17px;
+    }
+    .feedback-slider::before, .feedback-slider:after {
+        width: 60px;
+        height: 60px;
+        background-size: 100% !important;
+    }
+    .feedback-slider::before {
+        left: -15px;
+    }
+    .feedback-slider::after {
+        right: -15px;
+    }
+    .four-step-section .section-heading h2 {
+        font-size: 26px;
+        max-width: 480px;
+    }
+    .missouri-content-inner h2, .your-engineers h2{
+        font-size: 26px;
+    }
+    .steps{
+        padding-right: 0;
+    }
+    .four-step-section p {
+        font-size: 16px;
+    }
+    .free-consultation-section a.btn{
+        font-size: 18px;
+        height: 60px;
+        line-height: 60px;
+    }
+    .footer-address,.footer-logo, .footer-social{
+        max-width: 33.333%;
+    }
+    .footer-address .address {
+        flex: 0 0 180px;
+        padding-right: 15px;
+    }
+    .social-part ul li {
+        margin: 0 3px;
+    }
+    .footer-social.social-part .btn {
+        min-width: 185px;
+        font-size: 15px;
+        padding: 0 10px;
+    }
+    .budget-box {
+        flex: 0 0 30%;
+        max-width: 30%;
+    }
+    .request-qoute h2{
+        font-size: 48px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+    .request-qoute .btn{
+        height: 75px;
+        line-height: 73px;
+    }
+    .contact-detail-box h3 {
+        font-size: 24px;
+    }
+    .day-content p{
+        font-size: 18px;
+    }
+    .day-content {
+        margin-right: 10px;
+    }
+    .contact-detail-box .Call-detail a{
+        font-size: 18px;
+    }
+    .contact-detail-box .Call-detail{
+        margin-left: 20px;
+    }
+    .day-icon {
+        flex: 0 0 36px;
+    }
+    .day-icon img{
+        max-height: 36px;
+    }
+    .contact-detail-box .Call-detail p {
+        line-height: 14px;
+    }
+    .contact-detail-box .Call-detail p:nth-child(2) {
+        margin-left: 8px;
+    }
+    .address-section .contact-detail-box:last-child .day-date .day-content {
+        margin-left: 10px;
+    }
+    .gallery-slider{
+        padding: 0 60px;
+    }
+    .gallery-section .slick-arrow {
+        width: 50px;
+        height: 158px;
+        line-height: 158px;
+    }
+    .slick-prev{
+        left: -20px;
+    }
+    .slick-next{
+        right: -20px;
+    }
+    .gallery-thumb-slider {
+        padding: 0 60px;
+        margin-top: 15px;
+    }
+    .accordion-set a{
+        font-size: 16px;
+    }
+    .accordion-content p{
+        font-size: 18px;
+    }
+    .accordion-set a span.fa{
+        width: 90px;
+    }
+    .lets-help-animation{
+        top: -19px;
+    }
+}
+@media (max-width: 1279px) {
+    .mm, .missouri-solar-animation{
+        display: none !important
+    }
+}
+@media (max-width: 1199px) {
+    h1 {
+        font-size: 21px;
+    }
+    h2, h3 {
+        font-size: 19px;
+    }
+    ul li{
+        margin-bottom: 5px;
+    }
+    .container, .sm-container{
+        max-width: 100%;
+    }
+    .page-heading h1 {
+        font-size: 50px;
+    }
+    .section-heading h1, .section-heading h2 {
+        padding-bottom: 12px;
+        margin-bottom: 4px;
+    }
+    .main-header {
+        min-height: 100px;
+        display: flex;
+    }
+    .menu-logo {
+        flex: 0 0 130px;
+    }
+    .social-part a.btn{
+        min-width: 160px;
+        font-size: 12px;
+    }
+    .main-header .nav-menu ul li a{
+        font-size: 14px;
+    }
+    .energy-future-right {
+        padding: 20px;
+    }
+    .energy-future-left{
+        padding-right: 160px;
+    }
+    .energy-future-left p {
+        font-size: 70px;
+        line-height: 65px;
+    }
+    .missouri-content-inner {
+        padding-right: 20px;
+    }
+    .missouri-content-inner h2, .your-engineers h2, .four-step-section .section-heading h2 {
+        font-size: 22px;
+    }
+    .missouri-content-inner h3{
+        margin-bottom: 0;
+    }
+    .capabilities-accordion a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .missouri-content-inner .btn {
+        margin-top: 20px;
+    }
+    .feedback-slider::before {
+        left: 0;
+    }
+    .feedback-slider::after {
+        right: 0;
+    }
+    .feedback-slider {
+        padding: 0px 85px;
+    }
+    .footer-address, .footer-social{
+        max-width: 40%;
+        flex: 0 0 40%;
+        padding: 0 15px;
+    }
+     .footer-logo{
+        max-width: 20%;
+        flex: 0 0 20%;
+    }
+    .budget-box {
+        flex: 0 0 33.333%;
+        max-width: 33.333%;
+    }
+    .request-qoute {
+        max-width: 315px;
+    }
+    .request-qoute h2 {
+        font-size: 42px;
+    }
+    .form-section {
+        flex: 0 0 100%;
+        max-width: 550px;
+    }
+    .contact-detail-box {
+        padding-left: 20px;
+    }
+    .contact-detail-box:first-child {
+        padding-right: 20px;
+    }
+    .contact-detail-box h3 {
+        font-size: 21px;
+    }
+    .day-content p {
+        font-size: 16px;
+    }
+    .day-icon {
+        flex: 0 0 28px;
+    }
+    .day-icon img {
+        max-height: 28px;
+    }
+    .contact-detail-box .Call-detail a {
+        font-size: 16px;
+    }
+    .gallery-section .slick-arrow {
+        width: 40px;
+        height: 138px;
+        line-height: 138px;
+    }
+    .gallery-section .slick-arrow img{
+        max-width: 16px;
+    }
+    .slick-prev {
+        left: 0;
+    }
+    .slick-next {
+        right: 0px;
+    }
+    .four-step-animation{
+        display: none;
+    }
+    .faqs-category-section {
+        margin: 20px 0;
+    }
+    .energy-future-inner ul {
+        margin-top: 0;
+    }
+    .social-part ul{
+        min-width: 70px;
+    }
+}
+@media (max-width:1023px) {
+    .header-social {
+        display: none;
+    }
+    .main-header {
+        min-height: 80px;
+    }
+    /* Mobile menu */
+    .toggle-btn{
+        display: block;
+    }
+    .mobile-menu-open {
+        position: fixed !important;
+        width: 100%;
+    }
+    .mobile-menu-open:after {
+        position: fixed;
+        content: '';
+        left: 0;
+        width: 100%;
+        top: 80px;
+        height: 100%;
+        background: rgba(0,0,0, .60);
+        transition: all .6s;
+        z-index: 1;
+    }
+    .main-header .sm-container{
+        max-width: 300px !important;
+    }
+    .main-header .nav-menu {
+        position: fixed;
+        right:  -100%;
+        max-width: 300px;
+        top: 80px;
+        background: #f17d20;
+        padding: 30px;
+        height: 100vh;
+        transition: all .5s;
+        -webkit-transition: all .5s;
+        margin: 0;
+        z-index: 2;
+    }
+    .mobile-menu-open .nav-menu {
+        right: 0;
+        transition: all .5s;
+        -webkit-transition: all .5s;
+    }
+    .main-header .lg-container {
+        align-items: center;
+        justify-content: space-between;
+    }
+    .main-header .toggle-btn span {
+        height: 3px;
+        background: #f17d20;
+        width: 30px;
+        display: block;
+        margin: 4px 0;
+        transform: rotate(0deg);
+        transition: all .4s;
+        -webkit-transition: all .4s;
+    }
+    .mobile-menu-open .toggle-btn span.second{
+        display: none;
+    }
+    .mobile-menu-open .toggle-btn span.first{
+        transform: rotate(45deg);
+        transition: all .4s;
+        -webkit-transition: all .4s;
+    }
+    .mobile-menu-open .toggle-btn span.third{
+        transform: rotate(-45deg);
+        transition: all .4s;
+        -webkit-transition: all .4s;
+        margin: -7px 0 0;
+    }
+    .main-header ul.toggle-mob-menu {
+        display: block;
+        height: calc(100% - 50px);
+        overflow-y: auto;
+        width: 100%;
+    }
+    .main-header ul.toggle-mob-menu li{
+        margin-left: 0 !important;
+        margin-bottom: 20px;
+    }
+    .main-header ul.toggle-mob-menu li a{
+        font-size: 28px;
+        color: #fff;
+        font-weight: 700;
+    }
+    .banner-part, .energy-future-section .container, .trusted-company-section .container, .incentives-section .container, .missouri-solar .container{
+        flex-wrap: wrap;
+    }
+    .banner-img, .banner-content, .missouri-solar-content, .missouri-solar-img {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .banner-content{
+        padding: 30px;
+    }
+    .save-money-section {
+        padding: 30px 0;
+    }
+    .cardbox-inner {
+        bottom: 0;
+        left: 0;
+        max-width: 100%;
+        padding: 15px;
+    }
+    .energy-future-left {
+        flex: 0 0 100%;
+        padding-right: 0;
+        margin: 30px 0 10px;
+    }
+    .energy-future-section .energy-future-left:after{
+        bottom: 20px;
+    }
+    .energy-future-right{
+        flex: 0 0 100%;
+        max-width: 100%;
+        position: relative;
+        padding:20px;
+    }
+    .banner-content-inner, .banner-content-inner p,.four-step-section .section-heading h2, .four-step-section .section-heading p{
+        max-width: 100%;
+    }
+    .engineers-logo img {
+        max-width: 90px;
+    }
+    .missouri-solar {
+        margin-top: 15px;
+    }
+    .energy-future-section:before{
+        display: none;
+    }
+    .energy-future-section .energy-future-right:before {
+        content: '';
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        top: 0;
+        bottom: 0;
+        background-color: #e4e5e6;
+        z-index: -1;
+    }
+    .missouri-solar-img{
+        order: -1;
+    }
+    .missouri-solar:before {
+        display: none;
+    }
+    .missouri-solar-content {
+        position: relative;
+        padding: 20px;
+    }
+    .missouri-solar .missouri-solar-content:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        width: 100%;
+        background: #333c43;
+        top: 0;
+        height: 100%;
+        z-index: -1;
+    }
+    .feedback-section {
+        padding-top: 40px;
+    }
+    .feedback-slider{
+        margin-top: 0;
+    }
+    .about-client {
+        margin-top: 20px;
+    }
+    .feedback-section .btn {
+        margin-top: 20px;
+    }
+    .feedback-images-section {
+        margin-top: 30px;
+    }
+    .four-step-section {
+        padding: 40px 0;
+    }
+    .free-consultation-section a.btn {
+        font-size: 16px;
+        flex: 0 0 50%;
+        height: 50px;
+        line-height: 50px;
+    }
+    .free-consultation-section {
+        height: 240px;
+    }
+    .footer .container{
+        flex-wrap: wrap;
+    }
+    .footer-address, .footer-logo, .footer-social{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .footer-address .address {
+        flex: 0 0 50%;
+    }
+    .footer-logo{
+        order: -1;
+    }
+    .footer-address {
+        margin: 20px 0;
+    }
+    .footer-social{
+        justify-content: space-between;
+    }
+    .solar-app-section .container{
+        flex-wrap: wrap;
+    }
+    .solar-app-left {
+        flex: 0 0 100%;
+    }
+    .your-engineers {
+        flex: 0 0 100%;
+        order: -1;
+        padding: 0 0 20px;
+    }
+    .your-engineers .section-heading{
+        margin-bottom: 20px;
+    }
+    .solar-app-section:before {
+        display: none;
+    }
+    .solar-app-left{
+        position: relative;
+        padding: 20px;
+    }
+    .solar-app-left:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+        background: #333c43;
+        z-index: -1;
+    }
+    .solar-app-section {
+        padding: 15px 0;
+    }
+    .your-engineers-content {
+        width: 38%;
+        float: left;
+    }
+    .trusted-company-section:before {
+        display: none;
+    }
+    .energy-future-right{
+        position: relative;
+    }
+    .energy-future-right:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background-color: #e4e5e6;
+        z-index: -1;
+    }
+    .trusted-company-section .energy-future-left{
+        padding: 0;
+    }
+    .four-step-section {
+        padding: 30px 0;
+    }
+    .trusted-company-section.residential .energy-future-right:before{
+        display: none;
+    }
+    .gallery-slider .gallery-slide {
+        max-height: 300px;
+        min-height: 300px;
+    }
+    .gallery-slider .gallery-slide img{
+        min-height: 300px;
+    }
+    .gallery-thumb-slider .slick-slide img{
+        padding: 0 5px;
+    }
+    .trusted-company-section .energy-future-right .btn {
+        margin-top: 10px;
+    }
+    .incentives-section:before{
+        display: none;
+    }
+    .incentives-section .energy-future-right{
+        padding: 20px;
+    }
+    .incentives-section .energy-future-left{
+        order: -1;
+        margin: 0;
+        padding: 20px 0 0;
+    }
+    .incentives-section .energy-future-right:before{
+        content: '';
+        position: absolute;
+        left: 0;
+        width: 100%;
+        top: 0;
+        height: 100%;
+        z-index: -1;
+        background: #e4e5e6;
+    }
+    .incentives-money-section .cardbox-inner h2 {
+        margin-bottom: 10px;
+    }
+    .incentives-money-section .cardbox-inner {
+        max-width: 100%;
+        min-height: 230px
+    }
+    .incentives-money-section .cardbox-inner p {
+        margin-bottom: 0px;
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .brand-logo {
+        padding-bottom: 35px;
+    }
+    .contact-content{
+        flex-wrap: wrap;
+    }
+    .request-qoute h2{
+        text-align: center;
+    }
+    .request-qoute .btn {
+        height: 55px;
+        line-height: 56px;
+    }
+    .form-section {
+        max-width: 660px;
+        margin: 20px 0 30px;
+        order: -1;
+    }
+    .contect-form-section {
+        padding: 40px 0;
+    }
+    .contact-details{
+        margin-top: 40px;
+    }
+    .address-section {
+        margin: 40px 0;
+    }
+    .faqs-banner{
+        min-height: 140px;
+        max-height: 200px;
+        overflow: hidden;
+    }
+    .faqs-banner img {
+        max-width: unset;
+    }
+    .faq-quations-section {
+        padding: 15px 0;
+    }
+    .accordion-content {
+        padding-left: 15px;
+        padding-top: 15px;
+        padding-bottom: 2px;
+        max-width: 90%;
+    }
+    .accordion-content p{
+        font-size: 16px;
+    }
+    .accordion-content p:last-child{
+        padding-bottom: 0
+    }
+    .accordion-set {
+        margin-bottom: 15px;
+    }
+    .accordion-set a{
+        padding: 10px 70px 10px 15px;
+        line-height: 16px;
+        font-size: 14px;
+    }
+    .accordion-set a span.fa {
+        width: 60px;
+        font-size: 16px;
+    }
+}
+@media (max-width:767px) {
+    .contact-strip-left, .contact-strip-right{
+        display: none;
+    }
+    .save-money-cards{
+        flex-wrap: wrap;
+    }
+    .incentives-money-section .cardbox-inner {
+        max-width: 80%;
+        min-height: 138px;
+    }
+    .save-money-cardbox {
+        flex: 0 0 100%;
+    }
+    .save-money-cardbox + .save-money-cardbox {
+        margin: 15px 0 0;
+    }
+    .save-money-cardbox {
+        max-height: 240px;
+        overflow: hidden;
+    }
+    .steps{
+        flex-wrap: wrap;
+    }
+    .step-box{
+        flex: 0 0 50%;
+        max-width: 50%;
+        margin-top: 30px;
+    }
+    .free-consultation-section .container{
+        display: block;
+        text-align: center;
+        padding: 60px 0;
+    }
+    .free-consultation-section a.btn{
+        width: 70%;
+    }
+    .free-consultation-section a.btn +  a.btn{
+        margin-top: 15px;
+    }
+    .energy-future-left p {
+        font-size: 50px;
+        line-height: 45px;
+    }
+    .missouri-content-inner {
+        padding-right: 0;
+    }
+    .engineers-logo a{
+        padding: 10px;
+    }
+
+    .trusted-company-section {
+        margin-bottom: 15px;
+    }
+    .energy-future-inner p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .residential .energy-future-right{
+        padding-right: 0;
+    }
+    .faqs-category-section{
+        flex-wrap: wrap;
+    }
+    .faqs-category{
+        flex: 0 0 100%;
+    }
+    .faqs-category-content{
+        justify-content: center;
+        left: 0;
+    }
+    .faqs-category:last-child .faqs-category-content {
+        right: 0;
+    }
+    .faqs-category-section{
+        margin: 15px 0;
+    }
+    .faqs-category-content{
+        padding: 0 15px;
+    }
+    .faqs-category, .faqs-banner,.full-banner {
+        min-height: 140px;
+        max-height: 200px;
+        overflow: hidden;
+    }
+    .faqs-category img ,
+    .full-banner img , .faqs-banner img{
+        max-width: unset;
+    }
+    .faqs-banner, .full-banner{
+        display: flex;
+        justify-content: center;
+    }
+    .brand-logo .container{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .brand-logo .container a{
+        margin: 15px;
+    }
+    .brand-logo .container a img{
+        max-height: 75px;
+    }
+    .brand-logo {
+        padding-bottom: 15px;
+    }
+    .save-money-section {
+        padding: 30px 0 10px;
+    }
+    .lets-help-section:before{
+        display: none;
+    }
+    .lets-help-section{
+        padding: 30px 0;
+    }
+    .budget-section {
+        padding: 30px 0;
+    }
+    .budget-box {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .contect-form-section {
+        padding: 10px 0 30px;
+    }
+    .page-heading h1 {
+        font-size: 36px;
+    }
+    .form-group {
+        margin-bottom: 10px;
+    }
+    .form-group.half-field{
+        flex-wrap: wrap;
+    }
+    .form-group.half-field .form-field + .form-field {
+        margin-top: 10px;
+    }
+    .form-group.half-field .form-field {
+        flex: 0 0 100%;
+    }
+    .request-qoute h2 {
+        font-size: 23px;
+    }
+    .request-qoute .btn {
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+    .contact-details, .address-section .container{
+        flex-wrap: wrap;
+    }
+    .contact-detail-box{
+        width: 100%;
+        flex: 0 0 100%;
+        padding: 0;
+    }
+    .contact-detail-box:first-child, .address-section .contact-detail-box:first-child{
+        border-right: 0;
+        padding-right: 0;
+        border-bottom: 1px solid #828282;
+        padding-bottom: 15px;
+        text-align: center;
+    }
+    .contact-detail-box:first-child .day-date{
+        flex-direction: column-reverse;
+    }
+    .day-content{
+        margin: 10px 0 0
+    }
+    .contact-detail-box{
+        margin-top: 15px;
+        text-align: center;
+    }
+    .day-date{
+        flex-direction: column;
+        align-items: center;
+    }
+    .contact-detail-box .Call-detail{
+        justify-content: center;
+        margin: 10px 0 0
+    }
+    .address-section {
+        margin: 10px 0 15px;
+    }
+    .gallery-section .slick-arrow {
+        width: 20px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .gallery-section .slick-arrow img {
+        max-width: 10px;
+    }
+    .gallery-slider {
+        padding: 0 10px;
+    }
+    .slick-prev {
+        left: -15px;
+    }
+    .slick-next {
+        right: -15px;
+    }
+    .gallery-thumb-slider {
+        padding: 0 10px;
+    }
+    .gallery-section{
+        padding: 25px 0;
+    }
+
+    .receint-project-box {
+      flex: 0 0 49%;
+      margin-left: 0;
+      max-width: 49%;
+  }
+  .lets-help-animation{
+      display: none;
+  }
+}
+
+@media (max-width:575px) {
+    .your-engineers-content {
+        width: 100%;
+        float: none;
+    }
+    .banner-content {
+        padding: 15px;
+    }
+    .contact-strip .container{
+        flex-wrap: wrap;
+    }
+    .contact-strip{
+        padding: 20px 0;
+    }
+    .contact-strip h2{
+        margin-bottom: 10px;
+    }
+    .energy-future-section .energy-future-left:after {
+        width: 100%;
+    }
+    .energy-future-left p {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .energy-future-section .energy-future-inner p {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .energy-future-right{
+        padding: 15px;
+    }
+    .btn {
+        padding: 0 10px;
+        font-size: 14px;
+        width: 100%;
+    }
+    .missouri-solar-content{
+        padding: 15px;
+    }
+    .capabilities-accordion a i{
+        margin-right: 5px;
+    }
+    .feedback-slider {
+        padding: 0px 20px;
+    }
+    .feedback-slider::before, .feedback-slider:after {
+        width: 30px;
+        height: 30px;
+        background-size: 100% !important;
+        top: -10px;
+    }
+    .feedback-slider::before {
+        left: -10px;
+    }
+    .feedback-slider::after {
+        right: -10px;
+    }
+    .step-box {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-top: 10px;
+        padding: 0;
+    }
+    .step-box p{
+        padding-right: 0;
+        max-width: 100%;
+    }
+    .step-box label:before{
+        right: 15px;
+    }
+    .step-box:last-child label:after{
+        right: 0;
+    }
+    .free-consultation-section a.btn {
+        width: 100%;
+        font-size: 15px;
+    }
+    .free-consultation-section{
+        padding: 0 15px;
+    }
+    .footer-address{
+        flex-wrap: wrap;
+        padding: 0;
+        text-align: center;
+    }
+    .footer-address .address {
+        flex: 0 0 100%;
+        padding: 0;
+    }
+    .footer-map {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .footer-map iframe{
+        width: 100%;
+        height: 140px;
+    }
+    .footer-social{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .footer-social.social-part .btn{
+        margin: 15px 0 0;
+    }
+    .footer{
+        padding: 30px 0;
+    }
+    .engineers-logo a {
+        padding: 5px;
+    }
+    .engineers-logo a img{
+        max-width: 80px;
+    }
+    .energy-future-left{
+        margin: 10px 0 0;
+    }
+    .brand-logo .container{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    .brand-logo .container a{
+        flex: 0 0 100%;
+    }
+    .budget-box ul{
+        padding-left: 0;
+    }
+
+    .receint-project-box {
+      flex: 0 0 100%;
+      margin-left: 0;
+      max-width: 100%;
+    }
+}

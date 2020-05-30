@@ -1,0 +1,241 @@
+/* Fonts */
+@font-face {
+    font-family: 'museo_sans500';
+    src: url('../fonts/museosans_500-webfont.woff2') format('woff2'),
+         url('museosans_500-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'museo_sans300';
+    src: url('../fonts/museosans-300-webfont.woff2') format('woff2'),
+         url('museosans-300-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'museo_sans700';
+    src: url('../fonts/museosans_700-webfont.woff2') format('woff2'),
+         url('museosans_700-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'museo_sans100';
+    src: url('../fonts/museosans-100-webfont.woff2') format('woff2'),
+         url('museosans-100-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_nova_condensedblack';
+    src: url('../fonts/fontsfree-net-proxima-nova-cond-black-webfont.woff2') format('woff2'),
+         url('../fonts/fontsfree-net-proxima-nova-cond-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'proxima_novablack';
+    src: url('../fonts/proximanova-black-webfont.woff2') format('woff2'),
+         url('proximanova-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_novabold';
+    src: url('../fonts/proximanova-bold-webfont.woff2') format('woff2'),
+         url('proximanova-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_novaextrabold';
+    src: url('../fonts/proximanova-extrabld-webfont.woff2') format('woff2'),
+         url('proximanova-extrabld-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_novalight';
+    src: url('../fonts/proximanova-light-webfont.woff2') format('woff2'),
+         url('proximanova-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_novaregular';
+    src: url('../fonts/proximanova-regular-webfont.woff2') format('woff2'),
+         url('proximanova-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_novasemibold';
+    src: url('../fonts/proximanova-semibold-webfont.woff2') format('woff2'),
+         url('proximanova-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'proxima_novathin';
+    src: url('../fonts/proximanovat-thin-webfont.woff2') format('woff2'),
+         url('proximanovat-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* TypoGraphy */
+*{
+    box-sizing: border-box;
+}
+:focus{
+    outline: none !important;
+    box-shadow: none;
+    border-color: inherit;
+}
+.form-group {
+    margin-bottom: 2.7%;
+}
+.form-group:last-child{
+    margin-bottom: 0;
+}
+.form-control:focus{
+    background: transparent;
+    outline: none;
+    box-shadow: none;
+    border-color: #FAAD17;
+    color: #fff;
+
+}
+.form-control {
+    background: transparent;
+    border-radius: 0;
+    color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-family: 'museo_sans300';
+    height: 38px;
+    line-height: 36px;
+    padding: 0 15px;
+}
+textarea.form-control {
+    height: 100px;
+    resize: none;
+}
+.form-control::placeholder{
+    color: #fff;
+}
+.form-group.half-field {
+    display: flex;
+    justify-content: space-between;
+}
+.form-group.half-field .form-field{
+    flex: 0 0 48.5%;
+}
+.toggle-btn {
+    display: none;
+}
+html, body{
+    overflow-x: hidden;
+    width: 100%;
+}
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    font-size: 18px;
+    font-family: 'proxima_novalight';
+    letter-spacing: .5px;
+    color: #000;
+}
+img, iframe {
+    max-width: 100%;
+}
+a, a:hover{
+    text-decoration: none;
+
+}
+a{
+    font-family: 'museo_sans100';
+    opacity: 1;
+    transition: all .4s;
+    -webkit-transition: all .4s;
+}
+a:hover{
+    opacity: .7;
+    transition: all .4s;
+    -webkit-transition: all .4s;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'museo_sans100';
+    margin-bottom: 20px;
+    position: relative;
+    text-transform: uppercase;
+    color: #403f41;
+}
+h1{
+    font-size: 48px;
+}
+
+h2,h3{
+    font-size: 27px;
+}
+h1 span,
+h2 span,
+h3 span{
+    font-family: 'museo_sans700';
+}
+ul{
+    padding-left: 20px;
+}
+ul li {
+    padding-left: 40px;
+    position: relative;
+    list-style: none;
+    margin-bottom: 0;
+    font-size: 18px;
+}
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.header-top .container {
+    display: flex;
+    justify-content: space-between;
+}
+.header-top {
+    background-color: #DDDDDD;
+}
+.header-top-inner ul {
+    display: flex;
+    align-items: center;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.header-top-inner ul li {
+    padding-left: 0;
+    padding-right: 20px;
+}
+.footer {
+    padding: 80px 0;
+}
+ul.social_icons.horizontal_list li {
+    padding: 0;
+}
+ul.social_icons.horizontal_list  {
+    padding: 0;
+}
+.mid ul li{
+    padding: 0;
+}
+.mid ul {
+    padding: 0;
+}
+.main-footer p {
+    margin: 0;
+    text-align: center;
+    padding: 10px 0;
+}
